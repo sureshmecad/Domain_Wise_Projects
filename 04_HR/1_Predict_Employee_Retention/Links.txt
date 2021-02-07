@@ -1,0 +1,9 @@
+
+ Predict Employee Retenction:
+
+  
+      1. https://www.youtube.com/watch?v=-A20sxoHH8Q                ----     End to End ML Project 1 - P1 - Problem Statement and Solution Design
+
+      2. https://www.youtube.com/watch?v=ZGEjPlKjKZA&t=347s         ----     End to End ML Project 1 - P2 - Exploratory Data Analysis
+
+      3. https://www.youtube.com/watch?v=p8rWU8lLl7I&t=13s          ----     End to End ML Project 1 - P3 - Model Building and Selection
